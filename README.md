@@ -13,7 +13,7 @@ LIBRARIES USED:
 
 FILES IN THE REPOSITORY:
 
-- Dataset (CSV Files): Training dataset, Testing dataset, Submission sample sataset
+- Dataset (CSV Files): Training dataset, Testing dataset, Submission sample sataset, Final_submission ( this is the predicted prices for the test set)
 - Description file (txt file): Features detailed description
 - README.md: Contains the details and summary of the project
 
