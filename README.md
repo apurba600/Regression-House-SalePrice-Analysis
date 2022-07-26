@@ -1,3 +1,5 @@
+MEDIUM POST: https://medium.com/@apurbapandey60/how-to-pick-a-house-for-investment-purposes-ff27e03062f9
+
 # House-SalePrice-Analysis
 
 Analyzing house features to find the most correlated features which can be helpful for real estate purposes.
